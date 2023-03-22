@@ -18,4 +18,4 @@ else{
 };
 
 }
-console.log(carSpeed());// function calling
+console.log(carSpeed());//calling

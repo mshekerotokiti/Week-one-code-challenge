@@ -20,7 +20,7 @@ const marks = prompt('Input marks: ') //initialized the prompt
         console.log(grade = 'E');
     }
     else{
-        console.log('Failed'); //will log in when there are no marks to be logged
+        console.log('Failed'); //will execute when there are no marks to be logged
     }
  }
 calculateMarks();
