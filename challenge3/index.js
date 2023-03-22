@@ -20,8 +20,8 @@ function salaryDeduction(){
       monthlyPayee=(salary*0.3);
       nhif = 1600;
      }
-   
-//     //nhif deductions
+     
+   //nhif
 //     else if  (salary <= 5999){
 //      return nhif = 150;
 //   }

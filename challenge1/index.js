@@ -1,6 +1,6 @@
 const prompt = require("prompt-sync")();
-//prompting the console
-const marks = prompt('Input marks: ')
+
+const marks = prompt('Input marks: ') //initialized the prompt
 
  function calculateMarks (){
     if(marks > 80 && marks <= 100){
