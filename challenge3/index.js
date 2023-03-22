@@ -1,4 +1,4 @@
-const prompt = require("prompt-sync")() //prompting the browser
+const prompt = require("prompt-sync")() //prompting the console
 const salary = prompt("Put salary: ")
 
 function salaryDeduction(){

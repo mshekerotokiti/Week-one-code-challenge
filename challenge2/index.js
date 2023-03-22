@@ -12,12 +12,10 @@ function carSpeed (){
         if (demeritPoints >= 12){
             console.log("License suspended");
         }
-          
-    //('Give one demerit point')
 }
 else{
     console.log('Enter speed again')
 };
 
 }
-console.log(carSpeed());
+console.log(carSpeed());// function call

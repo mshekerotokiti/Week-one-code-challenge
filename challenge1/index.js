@@ -1,4 +1,5 @@
 const prompt = require("prompt-sync")();
+//prompting the console
 const marks = prompt('Input marks: ')
 
  function calculateMarks (){
