@@ -18,8 +18,8 @@ node index.js
 
 Author
 Sharon Tokiti
-Twitter:
-Github:
+Twitter:https://twitter.com/SharonTokiti
+Github:https://github.com/mshekerotokiti
 
 Licence
 Copyright 2023 Sharon Tokiti Mshekero
